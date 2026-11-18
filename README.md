@@ -1,6 +1,5 @@
-# frankai-examples
+# Frank.ai API Integration docs
 
-Copy-paste examples for the **Frank AI API** and the `frankai` terminal package.
 
 Frank AI API is a free AI service made for junior developers. With one key and plain HTTPS requests you can add a chat assistant, picture generation and a voice to your app. There is nothing to install, and it works from a web page or from your own backend.
 
